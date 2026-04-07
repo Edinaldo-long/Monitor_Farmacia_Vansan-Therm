@@ -1,0 +1,9 @@
+@(
+.pio/
+.vscode/
+.gcc-flags.json
+libdeps/
+*.local
+*.bin
+*.elf
+)
